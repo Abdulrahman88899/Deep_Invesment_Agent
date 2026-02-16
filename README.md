@@ -68,7 +68,7 @@ A detailed diagram and phase breakdown are in **[docs/WORKFLOW.md](docs/WORKFLOW
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/Abdulrahman88899/Deep_Investment_Agent.git
+git clone https://github.com/Abdulrahman88899/Deep_Invesment_Agent.git
 cd aiagent_trader
 pip install -r requirements.txt
 ```
@@ -145,13 +145,6 @@ Edit `config/configurable.py` to change:
 
 ---
 
-## License
-
-Use and modify as you like. If you use this in a project, attribution is appreciated.
-
----
-
-## Contributing
 
 1. Fork the repo.
 2. Create a branch, make changes, then open a Pull Request.
