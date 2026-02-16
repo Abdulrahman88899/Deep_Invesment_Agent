@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ### 2. Environment variables
 
-Create a `.env` file in the project root (see `.env.example` if provided). Minimum:
+Create a `.env` file in the project root. Minimum:
 
 ```env
 OPENAI_API_KEY=your_openai_api_key
