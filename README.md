@@ -4,7 +4,7 @@ A **multi-agent stock analysis system** built with [LangGraph](https://github.co
 
 ## App Preview
 
-![AI Agent Trader Streamlit UI](assets/app-ui.png)
+![AI Agent Trader Streamlit UI](app-ui.png)
 
 ---
 
