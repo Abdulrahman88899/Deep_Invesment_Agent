@@ -68,7 +68,7 @@ A detailed diagram and phase breakdown are in **[docs/WORKFLOW.md](docs/WORKFLOW
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aiagent_trader.git
+git clone https://github.com/Abdulrahman88899/Deep_Investment_Agent.git
 cd aiagent_trader
 pip install -r requirements.txt
 ```
